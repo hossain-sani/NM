@@ -45,4 +45,4 @@ To run these scripts, you need:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/your-username/numerical-methods-lab.git](https://github.com/your-username/numerical-methods-lab.git)
+    git clone [https://github.com/hossain-sani/numerical-methods-lab.git](https://github.com/hossain-sani/numerical-methods-lab.git)
